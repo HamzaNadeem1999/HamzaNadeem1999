@@ -1,7 +1,7 @@
 <h1>Hi, I'm Hamza! <br/><a href="https://github.com/joshmadakor1"></a> <a href="https://www.linkedin.com/in/hamzanade/">Data Science Professional</a>- <a 
                                                                                                           href="">AWS Certified</a></h1>
 <h2>About me</h2>    
-- Coming from India🇮🇳,As an energetic and passionate Data Science professional hailing from India, I bring a wealth of experience in working with large datasets and extracting actionable insights that drive business growth across diverse industries. With a strong foundation in modern technologies, including Python, Machine Learning, Deep Learning, and Natural Language Processing (NLP), I thrive on leveraging cutting-edge tools and techniques to solve complex challenges and deliver impactful solutions.
+As an energetic and passionate Data Science professional hailing from India, I bring a wealth of experience in working with large datasets and extracting actionable insights that drive business growth across diverse industries. With a strong foundation in modern technologies, including Python, Machine Learning, Deep Learning, and Natural Language Processing (NLP), I thrive on leveraging cutting-edge tools and techniques to solve complex challenges and deliver impactful solutions.
 <h2>👨‍💻 Data Science and Machine Learning Projects:</h2>
 
 - <b>Auto-Correct (NLP)</b>
@@ -16,28 +16,28 @@
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Tableau Visualisation Portfolio</b>
+  - [My Tableau Vizzes](https://public.tableau.com/app/profile/hamza.nadeem2614/vizzes)
 
 <h2>📺 Work Experience</h2>
 
--Data Science Intern, Rapido
+<b>Data Science Intern, Rapido.</b>
+
+<b>Data Analyst, Sanofi Inc.</b>
 
 
 <h2> 🤳 Connect with me:</h2>
 
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="HamzaNadeem | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="HamzaNadeem | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
 
 
 [instagram]: https://www.instagram.com/hamza_nade99/
 [linkedin]: https://linkedin.com/in/hamzanade
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
