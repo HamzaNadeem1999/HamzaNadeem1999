@@ -1,49 +1,56 @@
-<h1>Hi, I'm Hamza! <br/><a href="https://github.com/joshmadakor1"></a> <a href="https://www.linkedin.com/in/hamzanade/">Data Science Professional</a>- <a 
-                                                                                                          href="">AWS Certified</a></h1>
-<h2>🤙🏼About me</h2>    
-As an energetic and passionate Data Science professional hailing from India, I bring a wealth of experience in working with large datasets and extracting actionable insights that drive business growth across diverse industries. With a strong foundation in modern technologies, including Python, Machine Learning, Deep Learning, and Natural Language Processing (NLP), I thrive on leveraging cutting-edge tools and techniques to solve complex challenges and deliver impactful solutions.
+# Hi, I'm Hamza!  
+### [Data Science Professional](https://linkedin.com/in/hamzanade) | [AWS Certified](#)  
 
+## 🤙 About Me  
+I am a passionate and results-driven Data Science professional with expertise in analyzing complex datasets and delivering actionable insights to solve business challenges. With hands-on experience in Python, Machine Learning, Deep Learning, Natural Language Processing (NLP), and cloud platforms like AWS, I thrive on leveraging modern technologies to develop innovative and impactful solutions. My strong analytical background and ability to deliver data-driven strategies have been honed through academic pursuits, internships, and real-world projects.  
 
-<h2>📚 Education </h2>
-<h3>M.S in Data Science-Clark University</h3>
+Currently, I am pursuing an **M.S. in Data Science at Clark University**, where I am deepening my knowledge in **Natural Language Processing, Deep Learning, and Advanced AI Concepts**.  
 
--<b>I’m currently learning Natural Language Processing, Deep Learning, Deep Concepts in AI.</b>
+## 📚 Education  
+**M.S. in Data Science, Clark University**  
+- Focus Areas: Natural Language Processing, Machine Learning, Deep Learning, and Advanced AI.  
 
-<h2>📺 Work Experience</h2>
+## 📺 Professional Experience  
+**Data Science Intern, Rapido**  
+- Contributed to the development of predictive models and real-time analytics pipelines to enhance customer satisfaction.  
 
-<b>Data Science Intern, Rapido</b>
+**Data Analyst, Sanofi Inc.**  
+- Developed advanced visualizations and automated dashboards for operational efficiency, leveraging SQL and Tableau.  
 
-<b>Data Analyst, Sanofi Inc.</b>
-<h2>👨‍💻 Data Science and Machine Learning Projects:</h2>
+## 👨‍💻 Projects  
 
+### Featured Projects  
+- **[ArcFace Implementation on MNIST and CIFAR-10](https://github.com/HamzaNadeem1999/ArcFace-implementation-on-MNIST-and-CIFAR-10):**  
+  Built a classification model with PyTorch using the ArcFace loss function to enhance feature embeddings and enforce angular margin constraints for improved performance.  
 
-- <b>Auto-Correct (NLP)</b>
-  - [Auto-Correction](https://github.com/HamzaNadeem1999/Autocorrection-Using-NLP) - Auto-correction Project in Natural Language Processing (NLP) is a cutting-edge endeavor aimed at enhancing text input systems by providing intelligent autocorrection suggestions.Leveraging advanced algorithms and linguistic models,project aims to revolutionize the way users interact with text-based applications, ensuring accuracy and efficiency in communication.
-- <b>MultiModals (NLP)-Image Captioning</b>
-  - [MULTIMODALS](https://github.com/HamzaNadeem1999/-NLP-Through-Multimodal-Fusion) - Explore the convergence of Natural Language Processing (NLP) and "MultiModals." Discovered how the fusion of text, images, and other modalities is reshaping NLP, unlocking new dimensions of understanding and communication.
-- <b>US Health Data-Breaches-Visualisation(Tableau)</b>
-  - [US-Health-Data-Breaches-Visualisation](https://github.com/HamzaNadeem1999/US-Health-Data-Breaches-Visualisation)
-- <b>Lead Scoring Case Study using classification algorithm</b>
-  - [Lead Scoring Case Study](https://github.com/HamzaNadeem1999/Lead-Scoring-Case-Study)
-- <b>Tableau Visualisation Portfolio</b>
-  - [My Tableau Vizzes](https://public.tableau.com/app/profile/hamza.nadeem2614/vizzes)
+- **[Meteo-Weather ETL Pipeline](https://github.com/HamzaNadeem1999/Meteo-Weather-ETL-pipeline-using-Airflow-and-Astro):**  
+  Designed an end-to-end ETL pipeline for weather data processing using Apache Airflow and Astro, enabling real-time data insights and monitoring.  
 
-<h2>⚡ Fun fact ⚡</h2>
+- **[End-to-End MLOps Workflow](https://github.com/HamzaNadeem1999/MLOps-End-to-End):**  
+  Developed a fully automated MLOps pipeline for model development, deployment, and monitoring, adhering to industry best practices.  
 
-A passionate explorer with a zest for both culinary adventures and discovering new destinations across the United States. With a love for cooking and a desire to experience diverse cultures, I embark on journeys that allow me to indulge in delicious cuisine while immersing myself in the vibrant tapestry of American life. From quaint diners in remote towns to bustling food markets in metropolitan cities, I thrive on uncovering hidden culinary gems and sharing my experiences with others. Join me on my journey as I explore the rich flavors and vibrant landscapes that the United States has to offer.
+- **[Walmart Sales Data Analysis Using Advanced SQL](https://github.com/HamzaNadeem1999/Walmart-Sales-Data-Analysis-using-Advanced-SQL):**  
+  Performed SQL-based analysis on Walmart's sales data (2000-2019) to uncover trends and provide actionable insights for business growth.  
 
+- **[US Health Data Breaches Visualization](https://github.com/HamzaNadeem1999/US-Health-Data-Breaches-Visualisation):**  
+  Visualized patterns and impacts of healthcare data breaches using Tableau to deliver compelling storytelling and insights.  
 
-<h2> 🤳 Connect with me:</h2>
+### Additional Projects  
+- **[Auto-Correct Using NLP](https://github.com/HamzaNadeem1999/Autocorrection-Using-NLP):**  
+  Developed an intelligent text autocorrection system using advanced linguistic models for seamless communication.  
 
+- **[NLP Through Multimodal Fusion](https://github.com/HamzaNadeem1999/NLP-Through-Multimodal-Fusion):**  
+  Explored the integration of text and visual modalities to create innovative NLP solutions.  
 
-[<img align="left" alt="HamzaNadeem | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="HamzaNadeem | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- **[Credit Risk EDA](https://github.com/HamzaNadeem1999/Credit-EDA):**  
+  Conducted exploratory data analysis on real-world datasets to derive meaningful insights and improve decision-making.  
 
+- **[Tableau Visualization Portfolio](https://public.tableau.com/app/profile/hamza.nadeem2614/vizzes):**  
+  A collection of interactive dashboards showcasing proficiency in data visualization and storytelling.  
 
+## ⚡ Fun Fact  
+I am a passionate explorer and culinary enthusiast who loves discovering unique cuisines and vibrant destinations across the United States. Whether it's trying hidden culinary gems or immersing myself in diverse cultures, I enjoy blending my love for data with a zest for adventure.  
 
-
-[instagram]: https://www.instagram.com/hamza_nade99/
-[linkedin]: https://linkedin.com/in/hamzanade
-
-
-
+## 🤳 Connect With Me  
+[<img align="left" alt="HamzaNadeem | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/hamzanade)  
+[<img align="left" alt="HamzaNadeem | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/hamza_nade99/)  
