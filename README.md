@@ -1,5 +1,5 @@
 # Hi, I'm Hamza!  
-### [Data Science Professional](https://linkedin.com/in/hamzanade) | [AWS Certified](#)  
+### [Data Engineering Analyst Professional](https://linkedin.com/in/hamzanade) | [AWS Cloud Data Engineer Certified](#)  
 
 ## 🤙 Something About Me  
 I am a passionate and results-driven Data Analyst professional with expertise in analyzing complex datasets and delivering actionable insights to solve business challenges. With hands-on experience in Python, SQL, Tableau, PowerBI, Machine Learning, and cloud platforms like AWS, I thrive on leveraging modern technologies to develop innovative and impactful solutions. My strong analytical background and ability to deliver data-driven strategies have been honed through academic pursuits, internships, and real-world projects.  
