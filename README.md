@@ -15,6 +15,7 @@ Currently, I am pursuing an **M.S. in Data Science at Clark University** Graduat
 ## 📺 Professional Experience  
 **Data Engineer and AI Intern, EngageAthon,PA**  
 - Developed efficient data pipelines and recommendation models, achieving a 29% increase in production efficiency and a 7% improvement in user retention, resulting in $100K in operational savings.
+  
 **Data Science Intern, Rapido**  
 - Contributed to the development of predictive models and real-time analytics pipelines to enhance customer satisfaction.  
 
