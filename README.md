@@ -7,17 +7,14 @@ I am a passionate and results-driven Data Analyst professional with expertise in
 Currently, I am pursuing an **M.S. in Data Science at Clark University** Graduating in December 2024.  
 
 ## 📚 Education  
-**M.S. in Data Science, Clark University. GPA-(3.89/4.0)**  
+**M.S. in Data Analytics, Clark University. GPA-(3.89/4.0)**  
 - Focus Areas: Natural Language Processing, Machine Learning, Deep Learning, and Advanced AI.  
 **B.S Statistics, Lucknow University. GPA-(3.63/4.0)**  
 - Focus Areas: Statistics, A/B Testing, ANOVA.
 
 ## 📺 Professional Experience  
-**Data Engineer and AI Intern, EngageAthon,PA**  
+**Data Analyst Intern, EngageAthon,PA**  
 - Developed efficient data pipelines and recommendation models, achieving a 29% increase in production efficiency and a 7% improvement in user retention, resulting in $100K in operational savings.
-  
-**Data Science Intern, Rapido**  
-- Contributed to the development of predictive models and real-time analytics pipelines to enhance customer satisfaction.  
 
 **Data Analyst, Sanofi Inc.**  
 - Developed advanced visualizations and automated dashboards for operational efficiency, leveraging SQL and Tableau.  
