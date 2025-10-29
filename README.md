@@ -13,19 +13,19 @@ Currently, I am pursuing an **M.S. in Data Science at Clark University** Graduat
 - Focus Areas: Statistics, A/B Testing, ANOVA.
 
 ## 📺 Professional Experience  
-**AI/Machine Learning Engineer, UnitedHealth Group**, USA
+**AI/Machine Learning Engineer, UnitedHealth Group**
 - Designed and deployed end-to-end ML models on AWS SageMaker with CI/CD integration (CodePipeline, Lambda), improving deployment speed by 35%.
 - Built NLP and Computer Vision pipelines using BERT, YOLO, and OpenCV, boosting model accuracy by 18% and reducing inference latency by 22%.
 - Developed Agentic AI and RAG systems using LangChain, CrewAI, and sentence-transformers, enhancing response accuracy in healthcare chatbots by 25%.
-**Data Engineer Intern, EngageAthon**, USA
+**Data Engineer Intern, EngageAthon**
 - Built ETL/ELT data pipelines using Spark, Airflow, and Azure Data Factory, reducing data refresh time by 40%.
 - Created optimized data models (Star/Snowflake) and schemas across PostgreSQL and MongoDB, improving query performance.
 - Supported real-time analytics with Kafka and Kinesis for fraud detection, cutting latency by 30%.
-**AI/Machine Learning Engineer, Sanofi**, India
+**AI/Machine Learning Engineer, Sanofi**
 - Developed retrieval-based AI systems and RAG pipelines using BioBERT and GPT-3 for document summarization and classification.
 - Automated ML workflows with Docker, Kubernetes, and Airflow, accelerating model deployment cycles by 25%.
 - Applied deep learning (U-Net, Mask R-CNN) for medical imaging and NLP (BERT, spaCy) for sentiment and entity analysis.
-**Data Engineer, Hexaware**, India
+**Data Engineer, Hexaware**
 - Engineered real-time data pipelines with Kafka, Flink, and Spark Streaming for fraud detection and personalization.
 - Designed scalable ETL frameworks using Snowflake, dbt, and Talend, improving processing efficiency by 45%.
 - Built MLOps-ready pipelines with Terraform, Jenkins, and CloudFormation for reproducible deployments.
