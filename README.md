@@ -2,18 +2,18 @@
 ### [Data Engineering Analyst Professional](https://linkedin.com/in/hamzanade) | [AWS Cloud Data Engineer Certified](#)  
 
 ## 🤙 Something About Me  
-I am a passionate and results-driven Data Analyst professional with expertise in analyzing complex datasets and delivering actionable insights to solve business challenges. With hands-on experience in Python, SQL, Tableau, PowerBI, Machine Learning, and cloud platforms like AWS, I thrive on leveraging modern technologies to develop innovative and impactful solutions. My strong analytical background and ability to deliver data-driven strategies have been honed through academic pursuits, internships, and real-world projects.  
+Results-driven Data Engineer with 4+ years of experience designing scalable data pipelines, cloud-native ETL/ELT workflows, and end-to-end data platforms across AWS, Azure, and GCP. Passionate about building production-grade systems that power analytics, BI, and machine learning in healthcare, finance, and enterprise domains.
 
 Currently, I am pursuing an **M.S. in Data Science at Clark University** Graduating in December 2024.  
 
 ## 📚 Education  
 **M.S. in Data Analytics, Clark University. GPA-(3.89/4.0)**  
 - Focus Areas: Natural Language Processing, Machine Learning, Deep Learning, and Advanced AI.  
-**B.S Statistics, Lucknow University. GPA-(3.63/4.0)**  
+**B.Sc Statistics, Lucknow University. GPA-(3.63/4.0)**  
 - Focus Areas: Statistics, A/B Testing, ANOVA.
 
 ## 📺 Professional Experience  
-**AI/Machine Learning Engineer, UnitedHealth Group**
+**Data Analyst | Data Engineering, UnitedHealth Group**
 - Designed and deployed end-to-end ML models on AWS SageMaker with CI/CD integration (CodePipeline, Lambda), improving deployment speed by 35%.
 - Built NLP and Computer Vision pipelines using BERT, YOLO, and OpenCV, boosting model accuracy by 18% and reducing inference latency by 22%.
 - Developed Agentic AI and RAG systems using LangChain, CrewAI, and sentence-transformers, enhancing response accuracy in healthcare chatbots by 25%.
@@ -23,10 +23,6 @@ Currently, I am pursuing an **M.S. in Data Science at Clark University** Graduat
 - Created optimized data models (Star/Snowflake) and schemas across PostgreSQL and MongoDB, improving query performance.
 - Supported real-time analytics with Kafka and Kinesis for fraud detection, cutting latency by 30%.
   
-**AI/Machine Learning Engineer, Sanofi**
-- Developed retrieval-based AI systems and RAG pipelines using BioBERT and GPT-3 for document summarization and classification.
-- Automated ML workflows with Docker, Kubernetes, and Airflow, accelerating model deployment cycles by 25%.
-- Applied deep learning (U-Net, Mask R-CNN) for medical imaging and NLP (BERT, spaCy) for sentiment and entity analysis.
   
 **Data Engineer, Hexaware**
 - Engineered real-time data pipelines with Kafka, Flink, and Spark Streaming for fraud detection and personalization.
