@@ -1,10 +1,5 @@
 # Hi, I'm Hamza!  
-### [Data Engineering Analyst Professional](https://linkedin.com/in/hamzanade) | [AWS Cloud Data Engineer Certified](#)  
 
-## 🤙 Something About Me  
-Results-driven Data Engineer with 4+ years of experience designing scalable data pipelines, cloud-native ETL/ELT workflows, and end-to-end data platforms across AWS, Azure, and GCP. Passionate about building production-grade systems that power analytics, BI, and machine learning in healthcare, finance, and enterprise domains.
-
-Currently, I am pursuing an **M.S. in Data Science at Clark University** Graduating in December 2024.  
 
 ## 📚 Education  
 **M.S. in Data Analytics, Clark University. GPA-(3.89/4.0)**  
@@ -13,7 +8,7 @@ Currently, I am pursuing an **M.S. in Data Science at Clark University** Graduat
 - Focus Areas: Statistics, A/B Testing, ANOVA.
 
 ## 📺 Professional Experience  
-**Data Analyst | Data Engineering, UnitedHealth Group**
+**AI Engineer  | Data Engineering, UnitedHealth Group**
 - Designed and deployed end-to-end ML models on AWS SageMaker with CI/CD integration (CodePipeline, Lambda), improving deployment speed by 35%.
 - Built NLP and Computer Vision pipelines using BERT, YOLO, and OpenCV, boosting model accuracy by 18% and reducing inference latency by 22%.
 - Developed Agentic AI and RAG systems using LangChain, CrewAI, and sentence-transformers, enhancing response accuracy in healthcare chatbots by 25%.
