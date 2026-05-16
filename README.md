@@ -3,7 +3,8 @@
 
 ## 📚 Education  
 **M.S. in Data Analytics, Clark University. GPA-(3.89/4.0)**  
-- Focus Areas: Natural Language Processing, Machine Learning, Deep Learning, and Advanced AI.  
+- Focus Areas: Natural Language Processing, Machine Learning, Deep Learning, and Advanced AI.
+  
 **B.Sc Statistics, Lucknow University. GPA-(3.63/4.0)**  
 - Focus Areas: Statistics, A/B Testing, ANOVA.
 
